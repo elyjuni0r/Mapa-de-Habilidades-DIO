@@ -1,4 +1,4 @@
-## Etapa 1: Inventário de Habilidades
+## ETAPA 1: Inventário de Habilidades
 Aqui estão minhas principais habilidades e pontos fortes:
 
 - Documentação técnica e revisão crítica de documentos
