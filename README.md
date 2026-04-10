@@ -27,7 +27,7 @@ Defini estratégias práticas para transformar habilidades em oportunidades.
 ## 🛠️ Ferramentas Utilizadas
 - **GitHub** → Para versionamento e publicação do material.
 - **Microsoft Copilot** → Apoio na estruturação e organização das ideias.
-
+- **chatGPT** → Para análisar criticamente e auxiliar com o GitHub
 ---
 
 ## 📌 Como visualizar
