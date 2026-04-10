@@ -14,7 +14,7 @@ O objetivo é identificar minhas habilidades, cruzá-las com as necessidades do 
 ## 🌟 Etapas do Exercício
 
 ### 1. Inventário de Habilidades
-Listei minhas principais habilidades pessoais e profissionais.
+Utilizei o chatGPT para fazer uma síntese criteriosa do meu currículo para listar as minhas principais habilidades.
 
 ### 2. Cruzamento com Necessidades do Mercado
 Analisei quais habilidades têm demanda e podem ser monetizadas.
